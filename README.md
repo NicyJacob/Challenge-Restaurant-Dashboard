@@ -9,13 +9,13 @@ Sentiment Analysis: The sentiment.ipynb file contains the code used to analyze t
 Interactive Dashboard: The Dashboard.pbix file is the centerpiece of this project, providing travel agents with a range of tools to make informed recommendations. The dashboard gives the user the ability to search for restaurants based on city, cuisine type, ratings, price range, and review sentiment, helping ensure that every trip is filled with dining experiences that meet each traveler's unique needs.
 
 ## Getting Started
-Dependencies needed before running the program. 
+Dependencies needed before running the sentiment analysis. 
 
     pip install nltk
 
-You will need the Microsoft Power BI Desktop for running the dashboard.
+You will require the Microsoft Power BI Desktop for running the dashboard.
 
-Executing program: Run the file - Dashboard.pbix
+Run the file - Dashboard.pbix
 
 
 
