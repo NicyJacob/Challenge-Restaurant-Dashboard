@@ -20,7 +20,7 @@ Run the file - Dashboard.pbix
 
 
 ## Output
-
+![Dashboard_image](https://user-images.githubusercontent.com/113432231/217770578-5f616eea-e05e-4d38-bcc0-bc48b2dcc7bf.png)
 
 
 
