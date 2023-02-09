@@ -1,11 +1,12 @@
 # Challenge Restaurant Dashboard
-The objective of the project is to build a dashboard to help travel agents make recommendation to travellers on the best food destination for their trips across Europe.
+The goal of this project is to create a cutting-edge dashboard that empowers travel agents to provide personalized recommendations to travelers on the finest dining destinations throughout Europe. This will elevate the travel experience and help ensure that each trip is filled with unforgettable culinary experiences.
 
 ## Description
-The project is divided into 2 steps represented in the folder structure of this repository.
-1. Sentiment.ipynb: This code was used to perform sentiment analysis on the reviews recieved on Tripadvisor for each restaurant. This code also splits the list of cuisines mentioned in the dataset into different rows and establishes a many-to-many relationship with the restaurants.
-2. Dashboard.pbix : The dashboard gives the travel agent options to select restaurants based on city, cuisine type, ratings, price category and review sentiments.
+The project is organized into two key stages, reflected in the folder structure of the repository.
 
+Sentiment Analysis: The sentiment.ipynb file contains the code used to analyze the sentiment of Tripadvisor reviews for each restaurant. The code also processes the list of cuisines mentioned in the data and sets up a many-to-many relationship with the restaurants.
+
+Interactive Dashboard: The Dashboard.pbix file is the centerpiece of this project, providing travel agents with a range of tools to make informed recommendations. The dashboard gives the user the ability to search for restaurants based on city, cuisine type, ratings, price range, and review sentiment, helping ensure that every trip is filled with dining experiences that meet each traveler's unique needs.
 
 ## Getting Started
 Dependencies needed before running the program. 
