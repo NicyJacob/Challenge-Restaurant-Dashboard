@@ -20,7 +20,7 @@ Run the file - Dashboard.pbix
 
 
 ## Output
-![Restaurant Dashboard](https://user-images.githubusercontent.com/113432231/216354110-48fabf29-82a9-4480-a385-951d749a1092.png)
+
 
 
 
